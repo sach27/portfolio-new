@@ -15,7 +15,7 @@ function Aboutcontent() {
                 about data analytics, AI/ML and web development.
                 I can create responsive and secure web application, I can analyze data and find actionable incites
                 and also develope and deploy machine learning algorithms.
-                If you want someone to work in any of these fields or if you are a girl looking for a date(you know just in case) 
+                If you want someone to work in any of these fields 
                 please feel free to contact me 
             </p>
             <Link to="/contact">
