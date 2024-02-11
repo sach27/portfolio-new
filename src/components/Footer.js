@@ -11,7 +11,7 @@ const Footer = ()=>{
                     <div className="location">
                         <FaMailBulk size={20} style={{color:"#fff",
                         marginRight:"2rem"}}/>
-                        <p>sach.thadani2021@vitsudent.ac.in</p>
+                        <p>sach.thadani2021@vitstudent.ac.in</p>
                         <p>sachprofessional27@gmail.com</p> 
                     </div>
                     <div className="Phone">
